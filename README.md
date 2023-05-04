@@ -3,8 +3,7 @@
 I'm a Junior Java developer ready to explore the programming world! 
 -> More projects to follow on my GitHub Profile!
 
-Connect with me:
-https://www.linkedin.com/in/andreea-lucretia-lupascu-7780a51ab/
+Connect with me: [🖇LinkedIn](https://www.linkedin.com/in/andreea-lucretia-lupascu-7780a51ab/)
 
 
 As a junior Java developer, I have experience with various programming languages, frameworks, and tools that are commonly used in software development. My expertise includes:
